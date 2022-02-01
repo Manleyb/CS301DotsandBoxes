@@ -36,11 +36,7 @@ import android.view.SurfaceView;
             canvas.drawBitmap(scaled, 0, 0, new Paint());
         }
 
-   /*     <edu.up.dbGUI.Draw
-        android:id="@+id/our_first_drawing"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:ignore="MissingClass" />*/
+
     }
 
 
